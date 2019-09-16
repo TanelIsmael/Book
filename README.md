@@ -1,4 +1,4 @@
-Booking 
+<h1>Booking</h1>
 
 git clone https://gitlab.com/i-sepp/bcs-koolitus.git
 cd bcs-koolitus/
