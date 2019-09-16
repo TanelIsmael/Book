@@ -1,6 +1,6 @@
 <h1>Booking</h1>
 
-git clone https://gitlab.com/i-sepp/bcs-koolitus.git
+git clone https://gitlab.com/i-sepp/bcs-koolitus.git<br>
 cd bcs-koolitus/
 composer install
 sudo apt-get install php7.2-sqlite3
